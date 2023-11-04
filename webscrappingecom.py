@@ -3,8 +3,8 @@ from selenium import webdriver
 DIRECTORY = 'reports'
 NAME = 'PS5'
 CURRENCY = '₹'
-MIN_PRICE = "30000"
-MAX_PRICE = '60000'
+MIN_PRICE = "₹30000"
+MAX_PRICE = '₹60000'
 FILTERS = {
     'min': MIN_PRICE,
     'max': MAX_PRICE
